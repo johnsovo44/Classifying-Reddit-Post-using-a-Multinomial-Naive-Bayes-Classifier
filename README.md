@@ -27,7 +27,6 @@ The algorithm that I created stripped the title text of any unnecessary words, c
 ## Conclusion
 
 In conclusion, the least complex model, the Logistic Regression Model with Countvectorization, beat out all of the rest for both training and testing with 95% accuracy. If I had more time I would have played with more parameters and allowed to models to take time to run through a combonation of different parameters to find the true optimal model for each. Also, during EDA I discovered that where was not much overlap between the two subreddits, which made it easy for the model to predict which subreddit a post comes from. I recommend in the future trying model for a very explicit relationship between two subreddits that have alot of overlap. 
-<<<<<<< HEAD
 
 ## Resources
 
@@ -35,5 +34,3 @@ In conclusion, the least complex model, the Logistic Regression Model with Count
 2. http://localhost:8888/notebooks/DSI%20-%20Nash/GALessons/5_Week/5.07-lesson-naive_bayes/starter-code.ipynb
 3. https://www.youtube.com/watch?v=iQ1bfDMCv_c -- Majority of credit is due to Alice Zhao on youtube who does a walkthrough of Natural Language Processing from beginning to end. 
 4. https://www.analyticsindiamag.com/7-types-classification-algorithms/
-=======
->>>>>>> 96df7be221ab27751f9f6e96b365d294a2d22002
